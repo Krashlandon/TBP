@@ -1,1 +1,18 @@
-{"title":"Lawrence Of Arabia","duration":13620.6,"sources":[{"url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/740555f0df355b6aeb8f3b51615454b2/manifest/video.m3u8","contentType":"application/x-mpegURL","quality":1080}],"textTracks":[]}
+{"title":"The Blue Max",
+  "duration":9375.3,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/db66d4bdf8b7300db941e1467260efd4/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ],
+  "textTracks":[
+    {
+      "url": "https://example.com/subtitles.vtt",
+      "contentType": "text/vtt",
+      "name": "English Subtitles",
+      "default": true
+    }
+  ]
+}
