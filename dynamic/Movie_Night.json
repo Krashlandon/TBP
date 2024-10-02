@@ -1,17 +1,17 @@
-{"title":"The Blue Max",
-  "duration":9375.3,
+{"title":"Donnie Darko - Theatrical Cut",
+  "duration":6794.79,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/db66d4bdf8b7300db941e1467260efd4/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/115f27375ea655ef16d3a13602721bb7/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
   ],
   "textTracks":[
     {
-      "url": "https://krashlandon.github.io/TBP/dynamic/The_Blue_Max.vtt",
+      "url": "https://krashlandon.github.io/TBP/dynamic/Captions.vtt",
       "contentType": "text/vtt",
-      "name": "English Subtitles"
+      "name": "English Captions"
     }
   ]
 }
