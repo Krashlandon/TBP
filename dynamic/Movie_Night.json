@@ -1,8 +1,8 @@
-{"title":"Halloweentown II: Kalabar's Revenge",
-  "duration":4848.03,
+{"title":"The Thing",
+  "duration":6522.3,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/39c51f6c2615b0eec4338facf4d160bc/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/cab1234d21faa897c708b9450f53a9e9/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
