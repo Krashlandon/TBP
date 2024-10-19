@@ -1,8 +1,8 @@
-{"title":"The Thing",
-  "duration":6522.3,
+{"title":"The Haunting (1963)",
+  "duration":6713.9,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/cab1234d21faa897c708b9450f53a9e9/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/761aff10404ad0ba4a1d297ce9dec738/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
@@ -11,7 +11,7 @@
     {
       "url": "https://krashlandon.github.io/TBP/dynamic/Captions.vtt",
       "contentType": "text/vtt",
-      "name": "English Captions"
+      "name": "English"
     }
   ]
 }
