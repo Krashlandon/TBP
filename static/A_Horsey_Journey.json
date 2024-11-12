@@ -1,0 +1,10 @@
+{"title":"A Horsey Journey",
+  "duration":36.3,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/ce45458d2ce7a5d5989a995a1bf8048a/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
