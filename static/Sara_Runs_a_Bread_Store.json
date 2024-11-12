@@ -7,11 +7,4 @@
       "quality":1080
     }
   ],
-  "textTracks":[
-    {
-      #"url": "",
-      #"contentType": "text/vtt",
-      #"name": "English"
-    }
-  ]
 }
