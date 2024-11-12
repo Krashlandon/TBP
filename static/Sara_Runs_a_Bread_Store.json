@@ -9,9 +9,9 @@
   ],
   "textTracks":[
     {
-      "url": "",
-      "contentType": "text/vtt",
-      "name": "English"
+      #"url": "",
+      #"contentType": "text/vtt",
+      #"name": "English"
     }
   ]
 }
