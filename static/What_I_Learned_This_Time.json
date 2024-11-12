@@ -1,0 +1,10 @@
+{"title":"What I Learned This Time",
+  "duration":146.2,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/6ad20e0ad46746718b59a57d391d570b/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
