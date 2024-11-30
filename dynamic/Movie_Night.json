@@ -1,8 +1,8 @@
-{"title":"Rear Window",
-  "duration":6752.7,
+{"title":"Ender's Game",
+  "duration":6828.8,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/da2de36467dadb4b8b9647b7f12eada2/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/71779c643b771187a942a84b360bdb47/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
