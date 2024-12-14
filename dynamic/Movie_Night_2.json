@@ -1,1 +1,17 @@
-{"title":"Star Trek S01E24 - This Side of Paradise","duration":3033.1,"sources":[{"url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/984406b5d5be3b99c6e3f7a64dbc1af7/manifest/video.m3u8","contentType":"application/x-mpegURL","quality":1080}],"textTracks":[]}
+{"title":"Ender's Game",
+  "duration":6828.8,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/71779c643b771187a942a84b360bdb47/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ],
+  "textTracks":[
+    {
+      "url": "https://krashlandon.github.io/TBP/dynamic/Captions.vtt",
+      "contentType": "text/vtt",
+      "name": "English"
+    }
+  ]
+}
