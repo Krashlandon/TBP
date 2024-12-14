@@ -1,8 +1,8 @@
-{"title":"Ender's Game",
-  "duration":6828.8,
+{"title":"Die Hard",
+  "duration":7926.9,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/71779c643b771187a942a84b360bdb47/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b4a7a04b73eafd90494331d94cc66489/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
