@@ -1,15 +1,15 @@
-{"title":"Ender's Game",
-  "duration":6828.8,
+{"title":"The Lion in Winter",
+  "duration":8051.6,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/71779c643b771187a942a84b360bdb47/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/1d85879f15d8f7ec15c77dc36fd210da/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
   ],
   "textTracks":[
     {
-      "url": "https://krashlandon.github.io/TBP/dynamic/Captions.vtt",
+      "url": "https://krashlandon.github.io/TBP/dynamic/Captions_2.vtt",
       "contentType": "text/vtt",
       "name": "English"
     }
