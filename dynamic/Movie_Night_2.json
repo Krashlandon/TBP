@@ -1,8 +1,8 @@
-{"title":"The Lion in Winter",
-  "duration":8051.6,
+{"title":"Columbo S04E06 - A Deadly State of Mind",
+  "duration":4446.4,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/1d85879f15d8f7ec15c77dc36fd210da/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/c091aecdca3ed1f8028af5a0b033674e/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
