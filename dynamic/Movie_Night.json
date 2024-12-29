@@ -1,8 +1,8 @@
-{"title":"Die Hard",
-  "duration":7926.9,
+{"title":"Amadeus",
+  "duration":10825.6,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b4a7a04b73eafd90494331d94cc66489/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b7b4fe2f7e65f294a6add4cfde83658f/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
