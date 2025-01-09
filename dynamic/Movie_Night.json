@@ -1,8 +1,8 @@
-{"title":"Amadeus",
-  "duration":10825.6,
+{"title":"Falling Down",
+  "duration":6756.3,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b7b4fe2f7e65f294a6add4cfde83658f/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/e0a7cf546b65d5bfb6c09e844180fd84/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
