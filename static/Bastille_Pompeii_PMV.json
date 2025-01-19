@@ -1,0 +1,10 @@
+{"title":"Bastille - Pompeii - PMV",
+  "duration":218.4,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/ce1f846942ffd2d155f2a12bb43dd3e0/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
