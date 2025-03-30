@@ -1,0 +1,10 @@
+{"title":"THING.PNG",
+  "duration":38.4,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b124ecad2ef76b1f4e5b35f38fa6a7ed/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
