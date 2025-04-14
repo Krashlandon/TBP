@@ -1,8 +1,8 @@
-{"title":"Das Boot",
-  "duration":12488.5,
+{"title":"Greyhound (2020)",
+  "duration":5502.4,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/cdde86b02ac2f8d4aeae9343ecbde6ab/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/c5086cb0f74960016b52233247b54243/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
