@@ -1,8 +1,8 @@
-{"title":"Greyhound (2020)",
-  "duration":5502.4,
+{"title":"Van Helsing",
+  "duration":7898,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/c5086cb0f74960016b52233247b54243/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/ed5239df642640a685fd2066bcbdc69a/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
