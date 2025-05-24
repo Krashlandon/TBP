@@ -1,8 +1,8 @@
-{"title":"Van Helsing",
-  "duration":7898,
+{"title":"Pirates of the Caribbean - The Curse of the Black Pearl",
+  "duration":8018.7,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/ed5239df642640a685fd2066bcbdc69a/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/fefb515c462be9de4d63e62f7f410052/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
