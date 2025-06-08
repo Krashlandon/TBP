@@ -1,8 +1,8 @@
-{"title":"Pirates of the Caribbean - The Curse of the Black Pearl",
-  "duration":8018.7,
+{"title":"Jin-Roh: The Wolf Brigade",
+  "duration":6118.8,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/fefb515c462be9de4d63e62f7f410052/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/d7d7ab752f3f4329dd21a2982dbd67c8/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
