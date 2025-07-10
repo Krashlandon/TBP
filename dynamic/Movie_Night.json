@@ -1,8 +1,8 @@
-{"title":"Tropic Thunder",
-  "duration":7268.6,
+{"title":"Transformers One",
+  "duration":6254.92,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/f1477bd0476c4204263c6a512d102e53/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/c8674283441136a45c0cb26bbb3eadc2/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
