@@ -1,8 +1,8 @@
-{"title":"An American Werewolf in London",
-  "duration":5842.5,
+{"title":"Black Museum",
+  "duration":4161.5,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/9ffb0625b0c47c41d770ba981c18dfbc/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/9a14ca7bc5c71c53daa42a05bfa91c40/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
