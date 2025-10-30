@@ -1,0 +1,10 @@
+{"title":"Noifriend",
+  "duration":27.4,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/c5410c5ecfb554ba980e715052988101/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
