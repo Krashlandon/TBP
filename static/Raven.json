@@ -1,0 +1,10 @@
+{"title":"The Raven",
+  "duration":724.3,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/f95abc6bc52db5f7ef630a26c108239d/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
