@@ -1,0 +1,10 @@
+{"title":"Runaway Pony",
+  "duration":170,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/d5fa866ecec6f474b44cf4121d74e23a/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
