@@ -1,8 +1,8 @@
-{"title":"Monster House",
-  "duration":5438.4,
+{"title":"Throne of Blood",
+  "duration":6593.8,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/d6407681f9d929ce250159dcc67ec298/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b73aae3102bd30f210c55539e4dfc080/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
