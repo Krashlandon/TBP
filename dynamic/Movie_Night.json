@@ -1,8 +1,8 @@
-{"title":"Throne of Blood",
-  "duration":6593.8,
+{"title":"Arrival",
+  "duration":6982.98,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/b73aae3102bd30f210c55539e4dfc080/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/cb9ea50aadcfde9aa876f21ee3f8e293/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
