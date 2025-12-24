@@ -1,8 +1,8 @@
-{"title":"Die Hard",
-  "duration":7926.9,
+{"title":"The Long Walk",
+  "duration":6484.5,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/46f3c3cfff0d762e2583f761f63e41f6/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/189f90a755821afb976390964114f269/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
