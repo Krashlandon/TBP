@@ -1,8 +1,8 @@
-{"title":"Tron Ares",
-  "duration":7198.4,
+{"title":"The Good, the Bad and the Ugly",
+  "duration":10721.7,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/0ac921fd95a07960835844bcdd9b8aff/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/be639b86901584b90ac9d638d7827fc0/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
