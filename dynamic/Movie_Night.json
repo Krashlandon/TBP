@@ -1,8 +1,8 @@
-{"title":"The Good, the Bad and the Ugly",
-  "duration":10721.7,
+{"title":"The Mask of Zorro",
+  "duration":8258.2,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/be639b86901584b90ac9d638d7827fc0/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/345fd98e788766ceecf7193becc638de/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
