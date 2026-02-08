@@ -1,15 +1,15 @@
-{"title":"Columbo S07E05 - The Conspirators",
-  "duration":5832.8,
+{"title":"The Mask of Zorro (1998)",
+  "duration":8258.25,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/aa8e22319e7abcd70d571369ec6a6c01/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/f53f819f56127d2ed879d2c319fbe619/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
   ],
   "textTracks":[
     {
-      "url": "https://krashlandon.github.io/TBP/dynamic/Captions_2.vtt",
+      "url": "https://krashlandon.github.io/TBP/dynamic/Captions.vtt",
       "contentType": "text/vtt",
       "name": "English"
     }
