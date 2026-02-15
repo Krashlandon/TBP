@@ -1,0 +1,10 @@
+{"title":"Rainbow Dash Walks the Dinosaur",
+  "duration":35.4,
+  "sources":[
+    {
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/1a675483edc07e944b885e7e6421eac9/manifest/video.m3u8",
+      "contentType":"application/x-mpegURL",
+      "quality":1080
+    }
+  ]
+}
