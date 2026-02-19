@@ -1,8 +1,8 @@
-{"title":"The Mask of Zorro",
-  "duration":8258.2,
+{"title":"Schindler's List",
+  "duration":11707.7,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/345fd98e788766ceecf7193becc638de/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/76669389b797919cf85b84f64c9790d2/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
