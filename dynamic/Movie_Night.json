@@ -1,8 +1,8 @@
-{"title":"Zootopia",
-  "duration":6512.4,
+{"title":"We Were Soldiers",
+  "duration":8311.5,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/f54e7774a6880f8ca120d70896f8e3f1/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/854da7a694a53c11ce476d942ae1e4dd/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
