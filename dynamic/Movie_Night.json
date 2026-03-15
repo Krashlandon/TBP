@@ -1,8 +1,8 @@
-{"title":"We Were Soldiers",
-  "duration":8311.5,
+{"title":"Columbo - By Dawn's Early Light",
+  "duration":5888.8,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/854da7a694a53c11ce476d942ae1e4dd/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/fc634551cd21d2b7cae16c11f5e58851/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
