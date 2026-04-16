@@ -1,8 +1,8 @@
-{"title":"For A Few Dollars More",
-  "duration":7935.1,
+{"title":"Casablanca",
+  "duration":6150,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/2ddc24e164a7600f1cbcc534c51476c5/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/e5e52639b81ef8412926fa0cc179eef9/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
