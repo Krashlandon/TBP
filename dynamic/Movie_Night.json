@@ -1,8 +1,8 @@
-{"title":"Casablanca",
-  "duration":6150,
+{"title":"Zootopia 2",
+  "duration":6472.4,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/e5e52639b81ef8412926fa0cc179eef9/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/539a09eb3768c5386a267583a4c50212/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
