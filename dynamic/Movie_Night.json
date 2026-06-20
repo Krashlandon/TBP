@@ -1,8 +1,8 @@
-{"title":"Chloe",
-  "duration":5780,
+{"title":"Waterloo",
+  "duration":8034.1,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/fa0af83e2144c3af0997e5ed2c166ef8/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/4c733a255d8c81dd71cca8643eea7612/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
