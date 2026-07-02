@@ -1,8 +1,8 @@
-{"title":"Waterloo",
-  "duration":8034.1,
+{"title":"Laura",
+  "duration":5289.3,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/4c733a255d8c81dd71cca8643eea7612/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/df5e780695913310204111ec0cd819a8/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
