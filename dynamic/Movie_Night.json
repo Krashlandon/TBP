@@ -1,8 +1,8 @@
-{"title":"The Shining",
-  "duration":8625.74,
+{"title":"Willy's Wonderland",
+  "duration":5012.53,
   "sources":[
     {
-      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/6d96584ea21a2f42ceedadea44a2a43c/manifest/video.m3u8",
+      "url":"https://customer-lxf8kvzlakfb6lz6.cloudflarestream.com/5d6a85f3c04a7cf1adc78236eb6fcbb8/manifest/video.m3u8",
       "contentType":"application/x-mpegURL",
       "quality":1080
     }
